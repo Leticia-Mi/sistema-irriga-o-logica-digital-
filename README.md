@@ -39,15 +39,21 @@ O circuito possui duas saídas:
 |Significado|
 
 -A-Condição do solo
+
 -B-Sensor de chuva
+
 -C-Disponibilidade de água
+
 -D-Controle manual
 
 |Quanto vale|
 
 -A-Solo seco
+
 -B-Está chovendo
+
 -C-Água disponível
+
 -D-Pedido manual ativado
 
 
