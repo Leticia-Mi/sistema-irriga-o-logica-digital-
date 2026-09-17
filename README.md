@@ -3,8 +3,9 @@
 
 
 
-# sistema irrigação logica digital 
+# sistema irrigação logica digital.
 
+Este projeto foi desenvolvido com finalidade acadêmica, para a disciplina de sistemas digitais.
 
 Sistema de Irrigação Automática com Lógica Digital
 
