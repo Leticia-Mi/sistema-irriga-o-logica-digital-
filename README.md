@@ -1,4 +1,4 @@
-# sistema-irrigação--logica-digital 
+# sistema irrigação logica digital 
 
 
 Sistema de Irrigação Automática com Lógica Digital
