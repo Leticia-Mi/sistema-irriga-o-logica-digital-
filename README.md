@@ -31,30 +31,30 @@ O circuito possui duas saídas:
 
 
 |Entrada|
--A
--B
--C
--D
+- A
+- B
+- C
+- D
 
 |Significado|
 
--A-Condição do solo
+- A -Condição do solo
 
--B-Sensor de chuva
+- B -Sensor de chuva
 
--C-Disponibilidade de água
+- C -Disponibilidade de água
 
--D-Controle manual
+- D -Controle manual
 
 |Quanto vale|
 
--A-Solo seco
+- A-Solo seco
 
--B-Está chovendo
+- B-Está chovendo
 
--C-Água disponível
+- C-Água disponível
 
--D-Pedido manual ativado
+- D-Pedido manual ativado
 
 
 Os valores são representados utilizando lógica binária:
