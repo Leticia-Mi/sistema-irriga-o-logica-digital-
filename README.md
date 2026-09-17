@@ -1,3 +1,8 @@
+      
+
+
+
+
 # sistema irrigação logica digital 
 
 
@@ -255,3 +260,9 @@ Mapas de Karnaugh realizados
 Simulação concluída  
 LEDs e buzzer funcionando  
 Motor/bomba funcionando.
+
+
+
+ - VOCÊ PODE ACESSAR O PROJETO NO TINKERCAD POR MEIO DESTE LINK:
+
+https://www.tinkercad.com/things/iZhDmWm5NVg-copy-of-projeto-de-irrigacao?sharecode=fwzo03H_mQfw1ItOIXlMU_EfAvsdxNBNzO1gvwDNPGQ
