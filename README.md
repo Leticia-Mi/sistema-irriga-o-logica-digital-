@@ -48,13 +48,13 @@ O circuito possui duas saídas:
 
 |Quanto vale|
 
-- A-Solo seco
+- A -Solo seco
 
-- B-Está chovendo
+- B -Está chovendo
 
-- C-Água disponível
+- C -Água disponível
 
-- D-Pedido manual ativado
+- D -Pedido manual ativado
 
 
 Os valores são representados utilizando lógica binária:
