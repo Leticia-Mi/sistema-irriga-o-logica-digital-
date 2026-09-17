@@ -254,4 +254,4 @@ Tabela-verdade validada
 Mapas de Karnaugh realizados  
 Simulação concluída  
 LEDs e buzzer funcionando  
-Motor/bomba funcionando
+Motor/bomba funcionando.
